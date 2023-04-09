@@ -6,4 +6,4 @@ const key = Object.keys(sampleObject).filter(item => items === true);
 
 Do not change the code below
 const key = prompt("Enter Key.");
-//alert(hasKey(key));
+alert(hasKey(key));

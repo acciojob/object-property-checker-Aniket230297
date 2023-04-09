@@ -1,5 +1,5 @@
 const sampleObject = { red: "#FF0000", green: "#00FF00", white: "#FFFFFF" };
-sampleObject.hasOwnProperty('key');
+var key=sampleObject.hasOwnProperty('key');
 }
 
 Do not change the code below

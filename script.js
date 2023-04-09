@@ -1,7 +1,5 @@
 const sampleObject = { red: "#FF0000", green: "#00FF00", white: "#FFFFFF" };
-
-function hasKey(key) {
-let key = Object.keys(sampleObject).filter(item => items === true);
+sampleObject.hasOwnProperty('key');
 }
 
 Do not change the code below

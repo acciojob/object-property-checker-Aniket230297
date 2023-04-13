@@ -1,10 +1,10 @@
 const sampleObject = { red: "#FF0000", green: "#00FF00", white: "#FFFFFF" };
 function hasKey(key) {
 	for (let index in sampleObject) {
-		if(index === key)return true
+		if(index === key){ return true;}else{return false;}
 		
 	}
-	return false;
+	
 }
 
 

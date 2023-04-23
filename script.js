@@ -1,6 +1,6 @@
 const sampleObject = { red: "#FF0000", green: "#00FF00", white: "#FFFFFF" };
 
-	   if(Object.keys(sampleObject) === key){
+	   if(myObj.hasOwnProperty('key')){
 		   return true;
 	   }else{
 		   return false;
